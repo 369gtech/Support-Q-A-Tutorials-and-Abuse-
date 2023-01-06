@@ -7,7 +7,7 @@ monoGames would like to give all its players the best possible experience. To do
   <li>Tutorials</li><p></p>
   Tutorials will cover a broad range of topics within monoGames from an introduction to monoGames, game play to exchanging in game currency. We want to provide as many quick and informative tutorials which helps users to play and interact with monoGames.<p></p>
   <li>Abuse</li><p></p>
-  Abuse will not be tolerated in monoGames, any abuse will place a players account in cool down mode and if it persist may mean the termination of that account. We want players to have a positive experience when playing monoGames.
+  Abuse will not be tolerated in monoGames, any abuse will place a players account in cool down mode and if it persists may mean the termination of that account. We want players to have a positive experience when playing monoGames.
 </ol>
 monoGames hopes to create a very responsive and active support system for players to have an enjoyable gaming experience where any questions or problems players have can easily be resolved.
 </p>
